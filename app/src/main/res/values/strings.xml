@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Wunder</string>
+    <string name="address">Address:</string>
+    <string name="name">Name:</string>
+    <string name="vin">VIN:</string>
+    <string name="exterior">Exterior:</string>
+    <string name="interior">Interior:</string>
+    <string name="engineType">Engine Type:</string>
+    <string name="fuel">Fuel:</string>
+</resources>
